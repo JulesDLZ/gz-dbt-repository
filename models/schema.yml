@@ -1,0 +1,6 @@
+ sources:
+   - name: raw
+     tables:
+       - name: sales
+       - name: ship
+       - name: product
